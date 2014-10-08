@@ -1,0 +1,13 @@
+{
+  "name": "AngularJS_Filter",
+  "version": "0.0.0",
+  "description": "AngularJS-Filter",
+  "main": "server.js",
+  "author": {
+    "name": "Lyuben",
+    "email": ""
+  },
+  "devDependencies": {
+    "grunt-cli": "^0.1.13"
+  }
+}
